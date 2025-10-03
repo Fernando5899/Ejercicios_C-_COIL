@@ -8,3 +8,13 @@
  * Salida esperada: Vector1: 5 10 15 20 25 30 35 y Vector2: 100 85 70 55 40 20 10
  * Pista: Usa variables de fórmula creativa o fórmulas matemáticas.
  */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    cout << "Ejercicio 5" << endl;
+
+    return 0;
+}

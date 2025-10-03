@@ -19,3 +19,13 @@
  * Pista: Usar dos variables para las magnitudes más bajas y dos variables
  * para las posiciones de ambos vectores.
  */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    cout << "Ejercicio 6" << endl;
+
+    return 0;
+}
